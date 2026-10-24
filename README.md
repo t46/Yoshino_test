@@ -1,4 +1,7 @@
 # ResearchGraph
+
+Security: after environment setup/sync, check Pillow’s bundled Brotli decoder; see [CVE-2026-111497 remediation](docs/BROTLI_SECURITY.md).
+
 ResearchGraph is created by [AutoRes](https://www.autores.one/english).
 ResearchGraph is an OSS that aims to automate complete machine learning research and to self-improve the automatic research system.  
 
